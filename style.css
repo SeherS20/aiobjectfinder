@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right top, #6a81d4, #6e88d8, #7390dc, #7897df, #7e9ee3, #6caaee, #56b6f7, #3bc2fc, #00d4fc, #00e4ed, #00f1d2, #5ffbae);
+}
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: 'Rubik Doodle Shadow', system-ui;
+}
+#start, #numberofobjects, #status{
+    font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: black;
+    width: 100%;
+    background-color: lavender;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid white;
+    margin-top: 70px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px bisque;
+}
